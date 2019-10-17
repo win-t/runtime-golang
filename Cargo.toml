@@ -1,9 +1,11 @@
 [package]
 name = "runtime-golang"
+description = "use golang runtime for rust"
+license = "MIT"
 version = "0.0.1"
 authors = ["Kurnia D Win <kurnia.d.win@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-runtime-raw = "0.3.0-alpha.5"
-futures-preview = "0.3.0-alpha.18"
+# runtime-raw = "0.3.0-alpha.5"
+# futures-preview = "0.3.0-alpha.18"
